@@ -23,6 +23,10 @@ module.exports = {
     'import/no-named-as-default': 'off',
     'import/no-named-as-default-member': 'off',
     'react/jsx-indent': 'off',
-    'react/jsx-wrap-multilines': 'off'
+    'react/jsx-wrap-multilines': 'off',
+    'react/jsx-no-useless-fragment': 'off',
+    'react/prop-types': 'off',
+    'no-nested-ternary': 'off',
+    'react/jsx-boolean-value': 'off'
   }
 }
